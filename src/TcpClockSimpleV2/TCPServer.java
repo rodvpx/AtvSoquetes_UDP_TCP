@@ -10,7 +10,7 @@ public class TCPServer {
 
     public static void main(String[] args) {
 
-        int porta = 12345;
+        int porta = 5800;
 
         try (ServerSocket serverSocket = new ServerSocket(porta)) {
 

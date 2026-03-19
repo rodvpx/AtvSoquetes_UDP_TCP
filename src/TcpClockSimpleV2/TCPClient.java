@@ -9,7 +9,7 @@ public class TCPClient {
     public static void main(String[] args) {
 
         String servidor = "localhost";
-        int porta = 12345;
+        int porta = 5800;
 
         try (
                 Socket socket = new Socket(servidor, porta);
