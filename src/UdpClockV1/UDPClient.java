@@ -1,3 +1,9 @@
+/**
+* Cliente UDP com timeout de 5s para solicitar horario por regiao.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package UdpClockV1;
 
 import java.net.DatagramPacket;

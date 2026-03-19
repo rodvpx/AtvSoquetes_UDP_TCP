@@ -1,3 +1,9 @@
+/**
+* Utilitario com lista de timezones e selecao aleatoria para os testes.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package testes;
 
 import java.util.concurrent.ThreadLocalRandom;

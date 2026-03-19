@@ -1,3 +1,9 @@
+/**
+* Teste de carga comparativo entre UDP, TCP V2 e TCP V3 com tabela final.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package testes;
 
 import java.io.BufferedReader;

@@ -1,3 +1,9 @@
+/**
+* Cliente TCP da versao V2 para enviar regiao e exibir a resposta.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package TcpClockSimpleV2;
 
 import java.net.*;

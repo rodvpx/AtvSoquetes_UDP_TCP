@@ -1,3 +1,9 @@
+/**
+* Servidor UDP que recebe uma regiao e responde com data/hora formatada.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package UdpClockV1;
 
 import java.net.DatagramPacket;

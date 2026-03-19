@@ -1,3 +1,9 @@
+/**
+* Servidor TCP concorrente com pool de threads para atender multiplos clientes.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package TcpClockMultithreadV3;
 
 import java.net.*;

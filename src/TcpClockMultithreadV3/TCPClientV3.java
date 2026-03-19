@@ -1,3 +1,9 @@
+/**
+* Cliente TCP da versao V3 para requisitar horario por regiao.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package TcpClockMultithreadV3;
 
 import java.io.BufferedReader;

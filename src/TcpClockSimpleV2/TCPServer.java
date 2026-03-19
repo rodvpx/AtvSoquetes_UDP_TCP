@@ -1,3 +1,9 @@
+/**
+* Servidor TCP sequencial (single-thread) que atende um cliente por vez.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package TcpClockSimpleV2;
 
 import java.net.*;

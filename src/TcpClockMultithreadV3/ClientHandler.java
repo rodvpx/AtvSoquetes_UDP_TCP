@@ -1,3 +1,9 @@
+/**
+* Handler de conexao da V3 que processa uma requisicao TCP por thread.
+ * @author Rodrigo Simão Guimarães
+ *
+ * @since 2026-03-19
+ */
 package TcpClockMultithreadV3;
 
 import java.net.*;
